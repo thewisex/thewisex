@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=100&lines=👋+Hi%2C+I'm+Ranjit+Yadav;🤖+AI+Researcher+%26+Founder;🚀+Building+the+Future+with+AI;🧬+Human+Longevity+Enthusiast;💡+Open+Source+Lover;🌟+Welcome+to+my+GitHub+Profile!;⚡+Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=100&lines=👋+Hi%2C+I'm+Ranjit+Yadav;🤖+AI+Researcher+%26+Founder;🚀+Building+the+Future+with+AI;🧬+Human+Longevity+Enthusiast;💡+Open+Source+Lover;🌟+Welcome+to+my+GitHub+Profile!;⚡+Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
@@ -35,9 +35,7 @@
 </div>
 <br/>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🧠%20About%20Me&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
+<h2 align="center">🧠 About Me</h2>
 <pre>
 class RanjitYadav:
     """
@@ -87,15 +85,11 @@ me = RanjitYadav()
 print(me.say_hi())
 </pre>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🚀%20Current%20Focus%20Areas&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">🚀 Current Focus Areas</h2>
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%" style="border: 2px solid #00D4FF; border-radius: 10px;">
-        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50" />
+      <td align="center" width="25%" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 10px;">
         <br/>
         <img src="https://img.shields.io/badge/AI_Research-00D4FF?style=for-the-badge&logo=ai&logoColor=white" />
         <br/>
@@ -103,8 +97,7 @@ print(me.say_hi())
         <br/>
         <sub>PyTorch • TensorFlow • Transformers</sub>
       </td>
-      <td align="center" width="25%" style="border: 2px solid #FF6B6B; border-radius: 10px;">
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50" />
+      <td align="center" width="25%" style="border: 2px solid #FF6B6B; border-radius: 10px; padding: 10px;">
         <br/>
         <img src="https://img.shields.io/badge/Healthcare_Tech-FF6B6B?style=for-the-badge&logo=healthcare&logoColor=white" />
         <br/>
@@ -112,8 +105,7 @@ print(me.say_hi())
         <br/>
         <sub>Health Intelligence • Medical AI</sub>
       </td>
-      <td align="center" width="25%" style="border: 2px solid #00FF88; border-radius: 10px;">
-        <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8a2Q/giphy.gif" width="50" />
+      <td align="center" width="25%" style="border: 2px solid #00FF88; border-radius: 10px; padding: 10px;">
         <br/>
         <img src="https://img.shields.io/badge/Longevity_Science-00FF88?style=for-the-badge&logo=biotech&logoColor=white" />
         <br/>
@@ -121,8 +113,7 @@ print(me.say_hi())
         <br/>
         <sub>Biotechnology • Bioinformatics</sub>
       </td>
-      <td align="center" width="25%" style="border: 2px solid #FFD700; border-radius: 10px;">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" />
+      <td align="center" width="25%" style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px;">
         <br/>
         <img src="https://img.shields.io/badge/Open_Source-FFD700?style=for-the-badge&logo=open-source-initiative&logoColor=black" />
         <br/>
@@ -134,10 +125,7 @@ print(me.say_hi())
   </table>
 </div>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🛠️%20Tech%20Stack&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">🛠️ Tech Stack</h2>
 <h3>💻 Programming Languages</h3>
 <pre>
 Python     ██████████████████████░░░  90%  🐍
@@ -170,10 +158,7 @@ AWS          ████████████████░░░░░░�
 Jupyter      ████████████████████░░░  85%  📓
 </pre>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=00D4FF&title_color=00D4FF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" />
@@ -192,18 +177,12 @@ Jupyter      ████████████████████░░�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thewisex&theme=tokyonight" />
 </div>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🏆%20GitHub%20Trophies&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=💡%20Featured%20Projects&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">💡 Featured Projects</h2>
 <h3>🏢 Aevon Corporation</h3>
 <blockquote>Research and development at the intersection of AI, Biotechnology, and Human Longevity</blockquote>
 <p><b>Key Focus Areas:</b></p>
@@ -221,7 +200,6 @@ Jupyter      ████████████████████░░�
   <li>🤖 <a href="https://ai.aevoncorp.com">AI Platform</a></li>
   <li>📚 <a href="https://aevoncorp.com/blog">Research Blog</a></li>
 </ul>
-<br/>
 <h3>🔬 Research Projects</h3>
 <table>
   <tr>
@@ -261,10 +239,7 @@ Jupyter      ████████████████████░░�
   </tr>
 </table>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📈%20Weekly%20Development&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">📈 Weekly Development Breakdown</h2>
 <pre>
 Python        ████████████████░░░░  85 hrs  🐍
 PyTorch       ██████████████░░░░░░  65 hrs  🔥
@@ -276,10 +251,7 @@ DevOps        ████████░░░░░░░░░░░░  25 h
 Open Source   ████████░░░░░░░░░░░░  28 hrs  🌟
 </pre>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🎯%202026%20Goals&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">🎯 2026 Goals & Milestones</h2>
 <h3>Quarter 1 (Jan - Mar)</h3>
 <ul>
   <li><input type="checkbox" disabled/> Complete advanced PyTorch certification</li>
@@ -313,10 +285,7 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <li><input type="checkbox" disabled/> Reach 500 GitHub stars</li>
 </ul>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📚%20Learning%20Resources&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">📚 Learning Resources</h2>
 <h3>Currently Reading</h3>
 <ul>
   <li>📖 "Deep Learning" by Ian Goodfellow</li>
@@ -342,10 +311,7 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <li>📄 AI for Drug Discovery</li>
 </ul>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🤝%20Connect%20%26%20Collaborate&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">🤝 Connect & Collaborate</h2>
 <div align="center">
   <a href="https://aevoncorp.com">
     <img src="https://img.shields.io/badge/Website-aevoncorp.com-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" />
@@ -371,17 +337,12 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   </a>
 </div>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=💬%20Random%20Dev%20Quote&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">💬 Random Dev Quote</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📝%20Latest%20Blog%20Posts&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
+<h2 align="center">📝 Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
 <ul>
   <li>📄 <a href="https://aevoncorp.com/blog/ai-healthcare">Building AI Systems for Healthcare: A Comprehensive Guide</a></li>
@@ -392,10 +353,7 @@ Open Source   ████████░░░░░░░░░░░░  28 h
 </ul>
 <!-- BLOG-POST-LIST:END -->
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=⚡%20Fun%20Facts&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">⚡ Fun Facts About Me</h2>
 <ul>
   <li>🎯 I believe <b>consistency beats intensity</b> in every endeavor</li>
   <li>🌱 I read at least 2 research papers daily</li>
@@ -409,9 +367,7 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <li>🎯 My motto: "Learn, Build, Teach, Repeat"</li>
 </ul>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=💻%20My%20Development%20Philosophy&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
+<h2 align="center">💻 My Development Philosophy</h2>
 <pre>
 class LifeAsDeveloper:
     def __init__(self):
@@ -441,10 +397,7 @@ dev = LifeAsDeveloper()
 dev.daily_routine()
 </pre>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📊%20Support%20My%20Work&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">📊 Support My Work</h2>
 <div align="center">
   <a href="https://github.com/sponsors/thewisex">
     <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-pink?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0d1117" />
@@ -457,10 +410,7 @@ dev.daily_routine()
   </a>
 </div>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🌟%20Open%20Source%20Contributions&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">🌟 Open Source Contributions</h2>
 <h3>My Contributions</h3>
 <ul>
   <li>🔧 <a href="https://github.com/thewisex/ai-healthcare">AI Healthcare Library</a> - ML models for healthcare</li>
@@ -479,9 +429,7 @@ dev.daily_routine()
   <li>⭐ Pandas - Data Analysis</li>
 </ul>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🔥%20Recent%20GitHub%20Activity&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
+<h2 align="center">🔥 Recent GitHub Activity</h2>
 <!--RECENT_ACTIVITY:start-->
 <ol>
   <li>🎉 Created new repository: <code>Healthcare-AI-Model</code></li>
@@ -492,10 +440,7 @@ dev.daily_routine()
 </ol>
 <!--RECENT_ACTIVITY:end-->
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📅%20Contribution%20Timeline&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">📅 Contribution Timeline</h2>
 <pre>
 2022 ████████░░░░░░░░░░░░  40%  🌱
 2023 ████████████░░░░░░░░  60%  📈
@@ -504,10 +449,7 @@ dev.daily_routine()
 2026 ████████████████████ 100%  🎯 (Target)
 </pre>
 <hr/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📌%20Pinned%20Repositories&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
-<br/>
+<h2 align="center">📌 Pinned Repositories</h2>
 <div align="center">
   <a href="https://github.com/thewisex/ai-healthcare">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=ai-healthcare&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -548,14 +490,4 @@ dev.daily_routine()
   <img src="https://img.shields.io/badge/Powered_by-Coffee-FFD700?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Built_with-Code-00D4FF?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Inspired_by-Impact-00FF88?style=for-the-badge&labelColor=0d1117" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thewisex/thewisex/output/snake.svg" alt="Snake animation" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-  <br/>
-  <sub>🐍 Eating the contributions!</sub>
 </div>

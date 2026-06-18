@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Ranjit+Yadav+%F0%9F%91%8B;AI+Researcher+%26+Founder;Building+the+Future+with+AI;Human+Longevity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Ranjit+Yadav+%F0%9F%91%8B;AI+Researcher+%26+Founder;Building+the+Future+with+AI;Human+Longevity+Enthusiast;Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/MCA-KGEC-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Researcher-Open_To_Work-00FF88?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Human_Longevity-Enthusiast-FFD700?style=for-the-badge&logo=health&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Lover-FF6B6B?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
 </div>
 <br/>
 <div align="center">
@@ -17,13 +18,25 @@
   <a href="https://github.com/thewisewx">
     <img src="https://img.shields.io/github/stars/thewisewx?label=Stars&style=social" alt="GitHub stars" />
   </a>
+  <a href="https://github.com/thewisewx">
+    <img src="https://img.shields.io/github/watchers/thewisewx/thewisewx?label=Watchers&style=social" alt="GitHub watchers" />
+  </a>
 </div>
+<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewisewx&theme=tokyonight" alt="Profile Summary" />
+</p>
 <hr/>
 <h2 align="center">🧠 About Me</h2>
 <pre>
 class RanjitYadav:
+    """
+    AI Researcher | Founder | MCA Student | Human Longevity Enthusiast
+    """
+    
     def __init__(self):
         self.name = "Ranjit Yadav"
+        self.username = "thewisewx"
         self.role = "AI Researcher & Founder"
         self.company = "Aevon Corporation"
         self.education = "MCA Student at KGEC"
@@ -36,49 +49,65 @@ class RanjitYadav:
             "Healthcare AI",
             "Human Longevity",
             "Biotechnology",
-            "Bioinformatics"
+            "Bioinformatics",
+            "Open Source"
         ]
+        self.skills = {
+            "languages": ["Python", "JavaScript", "SQL", "PHP", "HTML/CSS"],
+            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-Learn", "HuggingFace"],
+            "data_science": ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+            "web_dev": ["FastAPI", "Flask", "Django", "React"],
+            "tools": ["Linux", "Git", "Docker", "VS Code", "AWS", "Jupyter"]
+        }
         self.mission = "Building intelligent systems to improve human life"
         self.philosophy = "Consistency beats intensity"
         self.current_focus = "Advanced Deep Learning & Healthcare AI"
     
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together!")
+        return "Thanks for visiting! Let's build something amazing together! 🚀"
     
     def get_goals(self):
         return {
-            "2026": ["Crack GATE CSE", "Publish Research", "Scale Aevon"],
+            "2026": ["Crack GATE CSE", "Publish Research Papers", "Scale Aevon"],
+            "2027": ["Launch AI Healthcare Product", "PhD in AI", "Global Recognition"],
             "long_term": ["Revolutionize Healthcare AI", "Human Longevity Research"]
         }
 
 me = RanjitYadav()
-me.say_hi()
+print(me.say_hi())
 </pre>
 <hr/>
 <h2 align="center">🚀 Current Focus Areas</h2>
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/AI_Research-00D4FF?style=for-the-badge&logo=ai&logoColor=white" />
         <br/>
         <sub><b>Deep Learning & LLMs</b></sub>
         <br/>
         <sub>PyTorch • TensorFlow • Transformers</sub>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Healthcare_Tech-FF6B6B?style=for-the-badge&logo=healthcare&logoColor=white" />
         <br/>
         <sub><b>Predictive Analytics</b></sub>
         <br/>
         <sub>Health Intelligence • Medical AI</sub>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Longevity_Science-00FF88?style=for-the-badge&logo=biotech&logoColor=white" />
         <br/>
         <sub><b>Human Longevity</b></sub>
         <br/>
         <sub>Biotechnology • Bioinformatics</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Open_Source-FFD700?style=for-the-badge&logo=open-source-initiative&logoColor=black" />
+        <br/>
+        <sub><b>Community Building</b></sub>
+        <br/>
+        <sub>Contributions • Mentorship</sub>
       </td>
     </tr>
   </table>
@@ -87,34 +116,34 @@ me.say_hi()
 <h2 align="center">🛠️ Tech Stack</h2>
 <h3>💻 Programming Languages</h3>
 <pre>
-Python     ██████████████████████░░░  85%
-JavaScript ██████████████████░░░░░░░  70%
-SQL        ████████████████░░░░░░░░░  65%
-PHP        ██████████████░░░░░░░░░░░  60%
-HTML/CSS   ██████████████████░░░░░░░  70%
-C++        ██████████████░░░░░░░░░░░  60%
+Python     ██████████████████████░░░  90%
+JavaScript ██████████████████░░░░░░░  75%
+SQL        ████████████████░░░░░░░░░  70%
+PHP        ██████████████░░░░░░░░░░░  65%
+HTML/CSS   ██████████████████░░░░░░░  75%
+C++        ██████████████░░░░░░░░░░░  65%
 </pre>
 <h3>🤖 AI & Machine Learning</h3>
 <pre>
-PyTorch      ██████████████████░░░░░  75%
-TensorFlow   ████████████████░░░░░░░  70%
-Scikit-Learn ██████████████████░░░░░  75%
-NumPy        ████████████████████░░░  80%
-Pandas       ████████████████████░░░  80%
-Matplotlib   ██████████████████░░░░░  75%
-FastAPI      ████████████████░░░░░░░  70%
-HuggingFace  ████████████████░░░░░░░  70%
+PyTorch      ██████████████████░░░░░  80%
+TensorFlow   ████████████████░░░░░░░  75%
+Scikit-Learn ██████████████████░░░░░  80%
+NumPy        ████████████████████░░░  85%
+Pandas       ████████████████████░░░  85%
+Matplotlib   ██████████████████░░░░░  78%
+FastAPI      ████████████████░░░░░░░  75%
+HuggingFace  ████████████████░░░░░░░  75%
 </pre>
 <h3>🛠️ Tools & Platforms</h3>
 <pre>
-Linux        ████████████████████░░░  80%
-Git          ████████████████████░░░  80%
-Docker       ████████████████░░░░░░░  70%
-VS Code      ████████████████████░░░  80%
-MySQL        ████████████████░░░░░░░  70%
-MongoDB      ██████████████░░░░░░░░░  65%
-AWS          ████████████████░░░░░░░  70%
-Jupyter      ████████████████████░░░  80%
+Linux        ████████████████████░░░  85%
+Git          ████████████████████░░░  85%
+Docker       ████████████████░░░░░░░  72%
+VS Code      ████████████████████░░░  85%
+MySQL        ████████████████░░░░░░░  72%
+MongoDB      ██████████████░░░░░░░░░  68%
+AWS          ████████████████░░░░░░░  72%
+Jupyter      ████████████████████░░░  85%
 </pre>
 <hr/>
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -129,6 +158,11 @@ Jupyter      ████████████████████░░�
 <br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisewx&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thewisewx&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thewisewx&theme=tokyonight" />
 </div>
 <hr/>
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -146,11 +180,13 @@ Jupyter      ████████████████████░░�
   <li>📊 Predictive health analytics</li>
   <li>🧬 Intelligent medical systems</li>
   <li>🤖 Generative AI for drug discovery</li>
+  <li>🧪 Bioinformatics & Genomics</li>
 </ul>
 <p><b>Live Projects:</b></p>
 <ul>
   <li>🌐 <a href="https://aevoncorp.com">Aevon Website</a></li>
   <li>🤖 <a href="https://ai.aevoncorp.com">AI Platform</a></li>
+  <li>📚 <a href="https://aevoncorp.com/blog">Research Blog</a></li>
 </ul>
 <h3>🔬 Research Projects</h3>
 <table>
@@ -159,42 +195,48 @@ Jupyter      ████████████████████░░�
     <th>Description</th>
     <th>Tech Stack</th>
     <th>Status</th>
+    <th>Repository</th>
   </tr>
   <tr>
     <td>HealthAI</td>
     <td>Predictive healthcare analytics</td>
     <td>PyTorch, FastAPI</td>
     <td>🚧 In Progress</td>
+    <td><a href="https://github.com/thewisewx">Link</a></td>
   </tr>
   <tr>
     <td>LongevityLab</td>
     <td>Aging research & biomarkers</td>
     <td>TensorFlow, Pandas</td>
     <td>🔬 Research</td>
+    <td><a href="https://github.com/thewisewx">Link</a></td>
   </tr>
   <tr>
     <td>GenAI-Med</td>
     <td>Medical LLM applications</td>
     <td>HuggingFace, Python</td>
     <td>📝 Planning</td>
+    <td><a href="https://github.com/thewisewx">Link</a></td>
   </tr>
   <tr>
     <td>BioInformatics</td>
     <td>Genomic data analysis</td>
     <td>NumPy, Scikit-learn</td>
     <td>🔬 Research</td>
+    <td><a href="https://github.com/thewisewx">Link</a></td>
   </tr>
 </table>
 <hr/>
 <h2 align="center">📈 Weekly Development Breakdown</h2>
 <pre>
-Python        ████████████████░░░░  80 hrs
-PyTorch       ██████████████░░░░░░  60 hrs
+Python        ████████████████░░░░  85 hrs
+PyTorch       ██████████████░░░░░░  65 hrs
 Research      ██████████████░░░░░░  55 hrs
-FastAPI       ████████████░░░░░░░░  40 hrs
-Documentation ██████████░░░░░░░░░░  30 hrs
-GitHub        ████████████░░░░░░░░  35 hrs
+FastAPI       ████████████░░░░░░░░  42 hrs
+Documentation ██████████░░░░░░░░░░  32 hrs
+GitHub        ████████████░░░░░░░░  38 hrs
 DevOps        ████████░░░░░░░░░░░░  25 hrs
+Open Source   ████████░░░░░░░░░░░░  28 hrs
 </pre>
 <hr/>
 <h2 align="center">🎯 2026 Goals & Milestones</h2>
@@ -204,6 +246,7 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   <li><input type="checkbox" disabled/> Start GATE CSE preparation</li>
   <li><input type="checkbox" disabled/> Build first AI healthcare prototype</li>
   <li><input type="checkbox" disabled/> Contribute to 3 open source projects</li>
+  <li><input type="checkbox" disabled/> Write 2 research papers</li>
 </ul>
 <h3>Quarter 2 (Apr - Jun)</h3>
 <ul>
@@ -211,6 +254,7 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   <li><input type="checkbox" disabled/> Launch AI platform beta</li>
   <li><input type="checkbox" disabled/> Complete 5 open source contributions</li>
   <li><input type="checkbox" disabled/> Develop predictive health model</li>
+  <li><input type="checkbox" disabled/> Attend 2 AI conferences</li>
 </ul>
 <h3>Quarter 3 (Jul - Sep)</h3>
 <ul>
@@ -218,6 +262,7 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   <li><input type="checkbox" disabled/> Scale Aevon Corporation operations</li>
   <li><input type="checkbox" disabled/> Deploy healthcare AI solution</li>
   <li><input type="checkbox" disabled/> Start human longevity research</li>
+  <li><input type="checkbox" disabled/> Build AI research team</li>
 </ul>
 <h3>Quarter 4 (Oct - Dec)</h3>
 <ul>
@@ -225,6 +270,7 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   <li><input type="checkbox" disabled/> Launch commercial AI product</li>
   <li><input type="checkbox" disabled/> Expand team at Aevon</li>
   <li><input type="checkbox" disabled/> Master advanced LLM architectures</li>
+  <li><input type="checkbox" disabled/> Reach 500 GitHub stars</li>
 </ul>
 <hr/>
 <h2 align="center">📚 Learning Resources</h2>
@@ -234,6 +280,7 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   <li>📖 "Pattern Recognition and Machine Learning" by Christopher Bishop</li>
   <li>📖 "The Age of AI" by Henry Kissinger</li>
   <li>📖 "Lifespan" by David Sinclair</li>
+  <li>📖 "AI 2041" by Kai-Fu Lee</li>
 </ul>
 <h3>Courses</h3>
 <ul>
@@ -241,6 +288,15 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   <li>🎓 CS231N: Convolutional Neural Networks for Visual Recognition</li>
   <li>🎓 Fast.ai: Practical Deep Learning for Coders</li>
   <li>🎓 MIT 6.S191: Introduction to Deep Learning</li>
+  <li>🎓 Stanford CS229: Machine Learning</li>
+</ul>
+<h3>Research Papers I'm Following</h3>
+<ul>
+  <li>📄 Attention Is All You Need (Transformer)</li>
+  <li>📄 BERT: Pre-training of Deep Bidirectional Transformers</li>
+  <li>📄 GPT-3: Language Models are Few-Shot Learners</li>
+  <li>📄 Deep Learning in Healthcare</li>
+  <li>📄 AI for Drug Discovery</li>
 </ul>
 <hr/>
 <h2 align="center">🤝 Connect & Collaborate</h2>
@@ -262,6 +318,9 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   </a>
   <a href="mailto:ranait@aevoncorp.com">
     <img src="https://img.shields.io/badge/Email-ranait@aevoncorp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@thewisewx">
+    <img src="https://img.shields.io/badge/YouTube-@thewisewx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 <hr/>
@@ -291,6 +350,8 @@ DevOps        ████████░░░░░░░░░░░░  25 h
   <li>📚 I maintain a personal library of 500+ AI/ML research papers</li>
   <li>🌍 I'm passionate about making AI accessible to everyone</li>
   <li>🎮 When not coding, I enjoy strategy games and chess</li>
+  <li>☕ I'm a coffee addict and believe code runs better with caffeine</li>
+  <li>🎯 My motto: "Learn, Build, Teach, Repeat"</li>
 </ul>
 <hr/>
 <h2 align="center">💻 My Development Philosophy</h2>
@@ -301,6 +362,7 @@ class LifeAsDeveloper:
         self.building = True
         self.sharing = True
         self.impact = "positive"
+        self.motto = "Code to make a difference"
     
     def daily_routine(self):
         while True:
@@ -309,10 +371,14 @@ class LifeAsDeveloper:
             self.break_things()
             self.fix_them_better()
             self.share_with_community()
-            self.sleep(8)  # Important!
+            self.mentor_others()
+            self.sleep(8)  # Important for brain function!
     
     def ultimate_goal(self):
         return "Make the world better through technology"
+    
+    def get_success(self):
+        return "Consistency + Learning + Impact"
 
 dev = LifeAsDeveloper()
 dev.daily_routine()
@@ -326,23 +392,28 @@ dev.daily_routine()
   <a href="https://www.buymeacoffee.com/ranait">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
+  <a href="https://www.paypal.com/paypalme/ranjityadav">
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
 </div>
 <hr/>
 <h2 align="center">🌟 Open Source Contributions</h2>
 <h3>My Contributions</h3>
 <ul>
-  <li>🔧 <a href="#">AI Healthcare Library</a></li>
-  <li>🔧 <a href="#">PyTorch Utilities</a></li>
-  <li>🔧 <a href="#">FastAPI Boilerplate</a></li>
-  <li>🔧 <a href="#">Data Science Toolkit</a></li>
+  <li>🔧 <a href="https://github.com/thewisewx/ai-healthcare">AI Healthcare Library</a> - ML models for healthcare</li>
+  <li>🔧 <a href="https://github.com/thewisewx/pytorch-utils">PyTorch Utilities</a> - Helper functions for PyTorch</li>
+  <li>🔧 <a href="https://github.com/thewisewx/fastapi-boilerplate">FastAPI Boilerplate</a> - Production-ready FastAPI</li>
+  <li>🔧 <a href="https://github.com/thewisewx/data-science-toolkit">Data Science Toolkit</a> - Data analysis tools</li>
 </ul>
 <h3>Projects I Support</h3>
 <ul>
-  <li>⭐ PyTorch</li>
-  <li>⭐ TensorFlow</li>
-  <li>⭐ HuggingFace Transformers</li>
-  <li>⭐ FastAPI</li>
-  <li>⭐ Scikit-learn</li>
+  <li>⭐ PyTorch - Deep Learning Framework</li>
+  <li>⭐ TensorFlow - Machine Learning Platform</li>
+  <li>⭐ HuggingFace Transformers - NLP Library</li>
+  <li>⭐ FastAPI - Web Framework</li>
+  <li>⭐ Scikit-learn - Machine Learning Library</li>
+  <li>⭐ NumPy - Scientific Computing</li>
+  <li>⭐ Pandas - Data Analysis</li>
 </ul>
 <hr/>
 <h2 align="center">🔥 Recent GitHub Activity</h2>
@@ -365,10 +436,8 @@ dev.daily_routine()
 2026 ████████████████████ 100% (Target)
 </pre>
 <hr/>
+<h2 align="center">📌 Pinned Repositories</h2>
 <div align="center">
-  <h2>🌟 "Building the Future, One Line of Code at a Time" 🌟</h2>
-  <br/>
-  <h3>📌 Pinned Repositories</h3>
   <a href="https://github.com/thewisewx/ai-healthcare">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=ai-healthcare&theme=tokyonight&hide_border=true" />
   </a>
@@ -381,14 +450,27 @@ dev.daily_routine()
   <a href="https://github.com/thewisewx/pytorch-utils">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=pytorch-utils&theme=tokyonight&hide_border=true" />
   </a>
-  <br/><br/>
+</div>
+<br/>
+<div align="center">
   <a href="https://github.com/thewisewx?tab=repositories">
     <img src="https://img.shields.io/badge/Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <br/><br/>
+  <a href="https://github.com/thewisewx?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <h3>🌟 "Building the Future, One Line of Code at a Time" 🌟</h3>
+  <br/>
   <h3>📫 Let's Build Together!</h3>
   <p><b>Open to collaborations in:</b> AI Research • Healthcare Tech • Longevity Science • Open Source</p>
   <p><b>Reach out:</b> ranait@aevoncorp.com</p>
   <br/>
   <p><i>Last Updated: January 2026</i></p>
+  <br/>
+  <img src="https://img.shields.io/badge/Made_with-❤️-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered_by-Coffee-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built_with-Code-00D4FF?style=for-the-badge" />
 </div>

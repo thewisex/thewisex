@@ -320,28 +320,46 @@ Exploring EEG signal processing and classification of cognitive attention states
 
 <br/>
 
-<!-- ANIMATED STATS CARDS WITH GLOW EFFECT -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&ring=a89070&include_all_commits=true&count_private=true" width="49%" />
+<!-- ANIMATED STATS WITH ALL INFO - TOTAL REPOS, PRIVATE/PUBLIC, COMMITS, ETC -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&ring=a89070&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=github_dark&hide_border=true&title_color=a89070&text_color=8a8780&bg_color=0d1117&card_width=320" width="49%" />
 </div>
 
 <br/>
 
-<!-- ANIMATED STREAK WITH GLOW -->
-<div>
-  <img src="https://streak-stats.demolab.com?user=thewisex&theme=dark&hide_border=true&background=0D1117&ring=a89070&fire=d4bfa4&currStreakLabel=a89070&sideLabels=8a8780&dates=6b6960&stroke=a89070&strokeWidth=1&border=0D1117" width="70%" />
+<!-- DETAILED STATS WITH REPOS, COMMITS, ETC -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thewisex&theme=dark&hide_border=true&background=0D1117&ring=a89070&fire=d4bfa4&currStreakLabel=a89070&sideLabels=8a8780&dates=6b6960&stroke=a89070&strokeWidth=1&border=0D1117" width="70%" />
 </div>
 
 <br/>
 
-<!-- ANIMATED CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisex&bg_color=0d1117&color=a89070&line=d4bfa4&point=a89070&area=true&hide_border=true&area_color=a89070&custom_title=Contribution%20Graph" width="100%" />
+<!-- COMPACT STATS CARD SHOWING ALL METRICS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&include_all_commits=true&count_private=true&show=prs_merged&hide=stars" width="100%" />
+</div>
 
-<br/><br/>
+<br/>
 
-<!-- ANIMATED TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" width="100%" />
+<!-- ANIMATED STREAK WITH GLOW EFFECT -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thewisex&theme=dark&hide_border=true&background=0D1117&ring=a89070&fire=d4bfa4&currStreakLabel=a89070&sideLabels=8a8780&dates=6b6960&stroke=a89070&strokeWidth=2&border=0D1117" width="70%" />
+</div>
+
+<br/>
+
+<!-- TROPHY WITH REPO STATS -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+</div>
+
+<br/>
+
+<!-- VISITOR BADGE WITH ANIMATION -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thewisex&color=a89070&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
 
 </div>
 
@@ -528,17 +546,6 @@ Documenting the journey from computer science to computational biology.
 
 <div align="center">
 
-## ⟨ Activity ⟩
-
-<!-- Already included the animated contribution graph above, but adding a compact version here -->
-[![Ranjit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thewisex&bg_color=0d1117&color=a89070&line=d4bfa4&point=a89070&area=true&hide_border=true&area_color=a89070)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
 ## ⟨ Languages ⟩
 
 ![Hindi](https://img.shields.io/badge/Hindi-Native-a89070?style=for-the-badge)
@@ -584,7 +591,8 @@ I am always open to conversations about **AI, philosophy of mind, longevity scie
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thewisex&color=a89070&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- PROFILE VIEWS WITH ANIMATION -->
+<img src="https://komarev.com/ghpvc/?username=thewisex&color=a89070&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 

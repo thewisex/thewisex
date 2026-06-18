@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ANIMATED HERO BANNER SVG -->
@@ -323,7 +324,7 @@ Exploring EEG signal processing and classification of cognitive attention states
 
 <br/>
 
-<!-- ALL REPOSITORIES COUNT WITH PUBLIC & PRIVATE -->
+<!-- TOTAL REPOSITORIES COUNT WITH PUBLIC & PRIVATE -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&ring=a89070&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=github_dark&hide_border=true&title_color=a89070&text_color=8a8780&bg_color=0d1117&card_width=320&langs_count=10" width="49%" />
@@ -331,7 +332,7 @@ Exploring EEG signal processing and classification of cognitive attention states
 
 <br/>
 
-<!-- DETAILED STATS WITH ALL METRICS -->
+<!-- DETAILED STATS WITH ALL METRICS - SHOWS TOTAL COMMITS, REPOS, ETC -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered" width="100%" />
 </div>
@@ -345,14 +346,14 @@ Exploring EEG signal processing and classification of cognitive attention states
 
 <br/>
 
-<!-- COMPLETE REPOSITORY STATS -->
+<!-- COMPLETE REPOSITORY STATS - SHOWS ALL REPOS -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewisex&theme=github_dark" width="100%" />
 </div>
 
 <br/>
 
-<!-- REPOSITORY CARDS WITH ALL REPOS -->
+<!-- REPOSITORY CARDS WITH LANGUAGE BREAKDOWN -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thewisex&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thewisex&theme=github_dark" width="49%" />
@@ -360,7 +361,7 @@ Exploring EEG signal processing and classification of cognitive attention states
 
 <br/>
 
-<!-- PRODUCTIVE TIME STATS -->
+<!-- PRODUCTIVE TIME AND STATS -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thewisex&theme=github_dark&utcOffset=5.5" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thewisex&theme=github_dark" width="49%" />

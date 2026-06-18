@@ -11,20 +11,20 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thewisewx&color=00D4FF&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/thewisewx?tab=followers">
-    <img src="https://img.shields.io/github/followers/thewisewx?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=thewisex&color=00D4FF&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/thewisex?tab=followers">
+    <img src="https://img.shields.io/github/followers/thewisex?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/thewisewx">
-    <img src="https://img.shields.io/github/stars/thewisewx?label=Stars&style=social" alt="GitHub stars" />
+  <a href="https://github.com/thewisex">
+    <img src="https://img.shields.io/github/stars/thewisex?label=Stars&style=social" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/thewisewx">
-    <img src="https://img.shields.io/github/watchers/thewisewx/thewisewx?label=Watchers&style=social" alt="GitHub watchers" />
+  <a href="https://github.com/thewisex">
+    <img src="https://img.shields.io/github/watchers/thewisex/thewisex?label=Watchers&style=social" alt="GitHub watchers" />
   </a>
 </div>
 <br/>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewisewx&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewisex&theme=tokyonight" alt="Profile Summary" />
 </p>
 <hr/>
 <h2 align="center">🧠 About Me</h2>
@@ -36,7 +36,7 @@ class RanjitYadav:
     
     def __init__(self):
         self.name = "Ranjit Yadav"
-        self.username = "thewisewx"
+        self.username = "thewisex"
         self.role = "AI Researcher & Founder"
         self.company = "Aevon Corporation"
         self.education = "MCA Student at KGEC"
@@ -148,26 +148,26 @@ Jupyter      ████████████████████░░�
 <hr/>
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewisewx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisewx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewisewx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewisex&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisewx&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisex&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thewisewx&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thewisewx&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thewisex&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thewisex&theme=tokyonight" />
 </div>
 <hr/>
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thewisewx&theme=algolia&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=algolia&no-frame=true&row=2&column=4" />
 </div>
 <hr/>
 <h2 align="center">💡 Featured Projects</h2>
@@ -202,28 +202,28 @@ Jupyter      ████████████████████░░�
     <td>Predictive healthcare analytics</td>
     <td>PyTorch, FastAPI</td>
     <td>🚧 In Progress</td>
-    <td><a href="https://github.com/thewisewx">Link</a></td>
+    <td><a href="https://github.com/thewisex">Link</a></td>
   </tr>
   <tr>
     <td>LongevityLab</td>
     <td>Aging research & biomarkers</td>
     <td>TensorFlow, Pandas</td>
     <td>🔬 Research</td>
-    <td><a href="https://github.com/thewisewx">Link</a></td>
+    <td><a href="https://github.com/thewisex">Link</a></td>
   </tr>
   <tr>
     <td>GenAI-Med</td>
     <td>Medical LLM applications</td>
     <td>HuggingFace, Python</td>
     <td>📝 Planning</td>
-    <td><a href="https://github.com/thewisewx">Link</a></td>
+    <td><a href="https://github.com/thewisex">Link</a></td>
   </tr>
   <tr>
     <td>BioInformatics</td>
     <td>Genomic data analysis</td>
     <td>NumPy, Scikit-learn</td>
     <td>🔬 Research</td>
-    <td><a href="https://github.com/thewisewx">Link</a></td>
+    <td><a href="https://github.com/thewisex">Link</a></td>
   </tr>
 </table>
 <hr/>
@@ -307,7 +307,7 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <a href="https://ai.aevoncorp.com">
     <img src="https://img.shields.io/badge/AI_Platform-ai.aevoncorp.com-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
   </a>
-  <a href="https://github.com/thewisewx">
+  <a href="https://github.com/thewisex">
     <img src="https://img.shields.io/badge/GitHub-thewisex-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ranjityadav">
@@ -319,8 +319,8 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <a href="mailto:ranait@aevoncorp.com">
     <img src="https://img.shields.io/badge/Email-ranait@aevoncorp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@thewisewx">
-    <img src="https://img.shields.io/badge/YouTube-@thewisewx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@thewisex">
+    <img src="https://img.shields.io/badge/YouTube-@thewisex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 <hr/>
@@ -386,7 +386,7 @@ dev.daily_routine()
 <hr/>
 <h2 align="center">📊 Support My Work</h2>
 <div align="center">
-  <a href="https://github.com/sponsors/thewisewx">
+  <a href="https://github.com/sponsors/thewisex">
     <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
   <a href="https://www.buymeacoffee.com/ranait">
@@ -400,10 +400,10 @@ dev.daily_routine()
 <h2 align="center">🌟 Open Source Contributions</h2>
 <h3>My Contributions</h3>
 <ul>
-  <li>🔧 <a href="https://github.com/thewisewx/ai-healthcare">AI Healthcare Library</a> - ML models for healthcare</li>
-  <li>🔧 <a href="https://github.com/thewisewx/pytorch-utils">PyTorch Utilities</a> - Helper functions for PyTorch</li>
-  <li>🔧 <a href="https://github.com/thewisewx/fastapi-boilerplate">FastAPI Boilerplate</a> - Production-ready FastAPI</li>
-  <li>🔧 <a href="https://github.com/thewisewx/data-science-toolkit">Data Science Toolkit</a> - Data analysis tools</li>
+  <li>🔧 <a href="https://github.com/thewisex/ai-healthcare">AI Healthcare Library</a> - ML models for healthcare</li>
+  <li>🔧 <a href="https://github.com/thewisex/pytorch-utils">PyTorch Utilities</a> - Helper functions for PyTorch</li>
+  <li>🔧 <a href="https://github.com/thewisex/fastapi-boilerplate">FastAPI Boilerplate</a> - Production-ready FastAPI</li>
+  <li>🔧 <a href="https://github.com/thewisex/data-science-toolkit">Data Science Toolkit</a> - Data analysis tools</li>
 </ul>
 <h3>Projects I Support</h3>
 <ul>
@@ -438,25 +438,25 @@ dev.daily_routine()
 <hr/>
 <h2 align="center">📌 Pinned Repositories</h2>
 <div align="center">
-  <a href="https://github.com/thewisewx/ai-healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=ai-healthcare&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/thewisex/ai-healthcare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=ai-healthcare&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/thewisewx/longevity-research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=longevity-research&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/thewisex/longevity-research">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=longevity-research&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/thewisewx/fastapi-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=fastapi-boilerplate&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/thewisex/fastapi-boilerplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=fastapi-boilerplate&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/thewisewx/pytorch-utils">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=pytorch-utils&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/thewisex/pytorch-utils">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=pytorch-utils&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <a href="https://github.com/thewisewx?tab=repositories">
+  <a href="https://github.com/thewisex?tab=repositories">
     <img src="https://img.shields.io/badge/Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="https://github.com/thewisewx?tab=repositories">
+  <a href="https://github.com/thewisex?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>

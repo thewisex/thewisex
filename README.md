@@ -1,17 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Ranjit+Yadav+%F0%9F%91%8B;AI+Researcher+%26+Founder;Building+the+Future+with+AI;Human+Longevity+Enthusiast;Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=100&lines=👋+Hi%2C+I'm+Ranjit+Yadav;🤖+AI+Researcher+%26+Founder;🚀+Building+the+Future+with+AI;🧬+Human+Longevity+Enthusiast;💡+Open+Source+Lover;🌟+Welcome+to+my+GitHub+Profile!;⚡+Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Founder-Aevon_Corporation-00D4FF?style=for-the-badge&logo=company&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCA-KGEC-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Researcher-Open_To_Work-00FF88?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Human_Longevity-Enthusiast-FFD700?style=for-the-badge&logo=health&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Lover-FF6B6B?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewisex&theme=tokyonight" alt="Profile Summary" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thewisex&color=00D4FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Founder-Aevon_Corporation-00D4FF?style=for-the-badge&logo=company&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MCA-KGEC-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AI_Researcher-Open_To_Work-00FF88?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Human_Longevity-Enthusiast-FFD700?style=for-the-badge&logo=health&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open_Source-Lover-FF6B6B?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=0d1117" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thewisex&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile views" />
   <a href="https://github.com/thewisex?tab=followers">
     <img src="https://img.shields.io/github/followers/thewisex?label=Followers&style=social" alt="GitHub followers" />
   </a>
@@ -21,13 +25,19 @@
   <a href="https://github.com/thewisex">
     <img src="https://img.shields.io/github/watchers/thewisex/thewisex?label=Watchers&style=social" alt="GitHub watchers" />
   </a>
+  <a href="https://github.com/thewisex">
+    <img src="https://img.shields.io/github/forks/thewisex/thewisex?label=Forks&style=social" alt="GitHub forks" />
+  </a>
 </div>
 <br/>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewisex&theme=tokyonight" alt="Profile Summary" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewisex&theme=tokyonight&hide_border=true&background=0d1117&fire=FF6B6B&ring=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+</div>
+<br/>
 <hr/>
-<h2 align="center">🧠 About Me</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🧠%20About%20Me&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
 <pre>
 class RanjitYadav:
     """
@@ -77,32 +87,43 @@ me = RanjitYadav()
 print(me.say_hi())
 </pre>
 <hr/>
-<h2 align="center">🚀 Current Focus Areas</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🚀%20Current%20Focus%20Areas&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="25%" style="border: 2px solid #00D4FF; border-radius: 10px;">
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50" />
+        <br/>
         <img src="https://img.shields.io/badge/AI_Research-00D4FF?style=for-the-badge&logo=ai&logoColor=white" />
         <br/>
         <sub><b>Deep Learning & LLMs</b></sub>
         <br/>
         <sub>PyTorch • TensorFlow • Transformers</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="25%" style="border: 2px solid #FF6B6B; border-radius: 10px;">
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50" />
+        <br/>
         <img src="https://img.shields.io/badge/Healthcare_Tech-FF6B6B?style=for-the-badge&logo=healthcare&logoColor=white" />
         <br/>
         <sub><b>Predictive Analytics</b></sub>
         <br/>
         <sub>Health Intelligence • Medical AI</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="25%" style="border: 2px solid #00FF88; border-radius: 10px;">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8a2Q/giphy.gif" width="50" />
+        <br/>
         <img src="https://img.shields.io/badge/Longevity_Science-00FF88?style=for-the-badge&logo=biotech&logoColor=white" />
         <br/>
         <sub><b>Human Longevity</b></sub>
         <br/>
         <sub>Biotechnology • Bioinformatics</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="25%" style="border: 2px solid #FFD700; border-radius: 10px;">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" />
+        <br/>
         <img src="https://img.shields.io/badge/Open_Source-FFD700?style=for-the-badge&logo=open-source-initiative&logoColor=black" />
         <br/>
         <sub><b>Community Building</b></sub>
@@ -113,51 +134,57 @@ print(me.say_hi())
   </table>
 </div>
 <hr/>
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🛠️%20Tech%20Stack&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <h3>💻 Programming Languages</h3>
 <pre>
-Python     ██████████████████████░░░  90%
-JavaScript ██████████████████░░░░░░░  75%
-SQL        ████████████████░░░░░░░░░  70%
-PHP        ██████████████░░░░░░░░░░░  65%
-HTML/CSS   ██████████████████░░░░░░░  75%
-C++        ██████████████░░░░░░░░░░░  65%
+Python     ██████████████████████░░░  90%  🐍
+JavaScript ██████████████████░░░░░░░  75%  ⚡
+SQL        ████████████████░░░░░░░░░  70%  🗄️
+PHP        ██████████████░░░░░░░░░░░  65%  🐘
+HTML/CSS   ██████████████████░░░░░░░  75%  🎨
+C++        ██████████████░░░░░░░░░░░  65%  🔧
 </pre>
 <h3>🤖 AI & Machine Learning</h3>
 <pre>
-PyTorch      ██████████████████░░░░░  80%
-TensorFlow   ████████████████░░░░░░░  75%
-Scikit-Learn ██████████████████░░░░░  80%
-NumPy        ████████████████████░░░  85%
-Pandas       ████████████████████░░░  85%
-Matplotlib   ██████████████████░░░░░  78%
-FastAPI      ████████████████░░░░░░░  75%
-HuggingFace  ████████████████░░░░░░░  75%
+PyTorch      ██████████████████░░░░░  80%  🔥
+TensorFlow   ████████████████░░░░░░░  75%  🤖
+Scikit-Learn ██████████████████░░░░░  80%  📊
+NumPy        ████████████████████░░░  85%  🔢
+Pandas       ████████████████████░░░  85%  📈
+Matplotlib   ██████████████████░░░░░  78%  📉
+FastAPI      ████████████████░░░░░░░  75%  🚀
+HuggingFace  ████████████████░░░░░░░  75%  🤗
 </pre>
 <h3>🛠️ Tools & Platforms</h3>
 <pre>
-Linux        ████████████████████░░░  85%
-Git          ████████████████████░░░  85%
-Docker       ████████████████░░░░░░░  72%
-VS Code      ████████████████████░░░  85%
-MySQL        ████████████████░░░░░░░  72%
-MongoDB      ██████████████░░░░░░░░░  68%
-AWS          ████████████████░░░░░░░  72%
-Jupyter      ████████████████████░░░  85%
+Linux        ████████████████████░░░  85%  🐧
+Git          ████████████████████░░░  85%  📦
+Docker       ████████████████░░░░░░░  72%  🐳
+VS Code      ████████████████████░░░  85%  💻
+MySQL        ████████████████░░░░░░░  72%  🗄️
+MongoDB      ██████████████░░░░░░░░░  68%  🍃
+AWS          ████████████████░░░░░░░  72%  ☁️
+Jupyter      ████████████████████░░░  85%  📓
 </pre>
 <hr/>
-<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewisex&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=00D4FF&title_color=00D4FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisex&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewisex&theme=tokyonight&hide_border=true&background=0d1117&fire=FF6B6B&ring=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisex&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=00D4FF&line=00D4FF&color=FFFFFF" alt="Activity Graph" />
 </div>
 <br/>
 <div align="center">
@@ -165,12 +192,18 @@ Jupyter      ████████████████████░░�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thewisex&theme=tokyonight" />
 </div>
 <hr/>
-<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=algolia&no-frame=true&row=2&column=4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🏆%20GitHub%20Trophies&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 <hr/>
-<h2 align="center">💡 Featured Projects</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=💡%20Featured%20Projects&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <h3>🏢 Aevon Corporation</h3>
 <blockquote>Research and development at the intersection of AI, Biotechnology, and Human Longevity</blockquote>
 <p><b>Key Focus Areas:</b></p>
@@ -188,6 +221,7 @@ Jupyter      ████████████████████░░�
   <li>🤖 <a href="https://ai.aevoncorp.com">AI Platform</a></li>
   <li>📚 <a href="https://aevoncorp.com/blog">Research Blog</a></li>
 </ul>
+<br/>
 <h3>🔬 Research Projects</h3>
 <table>
   <tr>
@@ -227,19 +261,25 @@ Jupyter      ████████████████████░░�
   </tr>
 </table>
 <hr/>
-<h2 align="center">📈 Weekly Development Breakdown</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📈%20Weekly%20Development&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <pre>
-Python        ████████████████░░░░  85 hrs
-PyTorch       ██████████████░░░░░░  65 hrs
-Research      ██████████████░░░░░░  55 hrs
-FastAPI       ████████████░░░░░░░░  42 hrs
-Documentation ██████████░░░░░░░░░░  32 hrs
-GitHub        ████████████░░░░░░░░  38 hrs
-DevOps        ████████░░░░░░░░░░░░  25 hrs
-Open Source   ████████░░░░░░░░░░░░  28 hrs
+Python        ████████████████░░░░  85 hrs  🐍
+PyTorch       ██████████████░░░░░░  65 hrs  🔥
+Research      ██████████████░░░░░░  55 hrs  📚
+FastAPI       ████████████░░░░░░░░  42 hrs  🚀
+Documentation ██████████░░░░░░░░░░  32 hrs  📝
+GitHub        ████████████░░░░░░░░  38 hrs  📦
+DevOps        ████████░░░░░░░░░░░░  25 hrs  ⚙️
+Open Source   ████████░░░░░░░░░░░░  28 hrs  🌟
 </pre>
 <hr/>
-<h2 align="center">🎯 2026 Goals & Milestones</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🎯%202026%20Goals&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <h3>Quarter 1 (Jan - Mar)</h3>
 <ul>
   <li><input type="checkbox" disabled/> Complete advanced PyTorch certification</li>
@@ -273,7 +313,10 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <li><input type="checkbox" disabled/> Reach 500 GitHub stars</li>
 </ul>
 <hr/>
-<h2 align="center">📚 Learning Resources</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📚%20Learning%20Resources&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <h3>Currently Reading</h3>
 <ul>
   <li>📖 "Deep Learning" by Ian Goodfellow</li>
@@ -299,48 +342,60 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <li>📄 AI for Drug Discovery</li>
 </ul>
 <hr/>
-<h2 align="center">🤝 Connect & Collaborate</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🤝%20Connect%20%26%20Collaborate&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <div align="center">
   <a href="https://aevoncorp.com">
-    <img src="https://img.shields.io/badge/Website-aevoncorp.com-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-aevoncorp.com-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://ai.aevoncorp.com">
-    <img src="https://img.shields.io/badge/AI_Platform-ai.aevoncorp.com-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI_Platform-ai.aevoncorp.com-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://github.com/thewisex">
-    <img src="https://img.shields.io/badge/GitHub-thewisex-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-thewisex-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
+  <br/>
   <a href="https://linkedin.com/in/ranjityadav">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranjit_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ranjit_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://twitter.com/ranjityadav">
-    <img src="https://img.shields.io/badge/Twitter-@ranjityadav-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@ranjityadav-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="mailto:ranait@aevoncorp.com">
-    <img src="https://img.shields.io/badge/Email-ranait@aevoncorp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ranait@aevoncorp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://www.youtube.com/@thewisex">
-    <img src="https://img.shields.io/badge/YouTube-@thewisex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-@thewisex-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
   </a>
 </div>
 <hr/>
-<h2 align="center">💬 Random Dev Quote</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=💬%20Random%20Dev%20Quote&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 <hr/>
-<h2 align="center">📝 Latest Blog Posts</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📝%20Latest%20Blog%20Posts&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
 <!-- BLOG-POST-LIST:START -->
 <ul>
-  <li><a href="https://aevoncorp.com/blog/ai-healthcare">Building AI Systems for Healthcare: A Comprehensive Guide</a></li>
-  <li><a href="https://aevoncorp.com/blog/longevity-ai">The Future of Human Longevity: How AI is Changing Aging Research</a></li>
-  <li><a href="https://aevoncorp.com/blog/pytorch-guide">Getting Started with PyTorch: A Beginner's Guide</a></li>
-  <li><a href="https://aevoncorp.com/blog/healthcare-ai-2026">Healthcare AI: Challenges and Opportunities in 2026</a></li>
-  <li><a href="https://aevoncorp.com/blog/transformers-guide">Understanding Transformer Models: From Theory to Practice</a></li>
+  <li>📄 <a href="https://aevoncorp.com/blog/ai-healthcare">Building AI Systems for Healthcare: A Comprehensive Guide</a></li>
+  <li>📄 <a href="https://aevoncorp.com/blog/longevity-ai">The Future of Human Longevity: How AI is Changing Aging Research</a></li>
+  <li>📄 <a href="https://aevoncorp.com/blog/pytorch-guide">Getting Started with PyTorch: A Beginner's Guide</a></li>
+  <li>📄 <a href="https://aevoncorp.com/blog/healthcare-ai-2026">Healthcare AI: Challenges and Opportunities in 2026</a></li>
+  <li>📄 <a href="https://aevoncorp.com/blog/transformers-guide">Understanding Transformer Models: From Theory to Practice</a></li>
 </ul>
 <!-- BLOG-POST-LIST:END -->
 <hr/>
-<h2 align="center">⚡ Fun Facts About Me</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=⚡%20Fun%20Facts&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <ul>
   <li>🎯 I believe <b>consistency beats intensity</b> in every endeavor</li>
   <li>🌱 I read at least 2 research papers daily</li>
@@ -354,7 +409,9 @@ Open Source   ████████░░░░░░░░░░░░  28 h
   <li>🎯 My motto: "Learn, Build, Teach, Repeat"</li>
 </ul>
 <hr/>
-<h2 align="center">💻 My Development Philosophy</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=💻%20My%20Development%20Philosophy&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
 <pre>
 class LifeAsDeveloper:
     def __init__(self):
@@ -384,20 +441,26 @@ dev = LifeAsDeveloper()
 dev.daily_routine()
 </pre>
 <hr/>
-<h2 align="center">📊 Support My Work</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📊%20Support%20My%20Work&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <div align="center">
   <a href="https://github.com/sponsors/thewisex">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-pink?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://www.buymeacoffee.com/ranait">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" />
   </a>
   <a href="https://www.paypal.com/paypalme/ranjityadav">
-    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0d1117" />
   </a>
 </div>
 <hr/>
-<h2 align="center">🌟 Open Source Contributions</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🌟%20Open%20Source%20Contributions&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <h3>My Contributions</h3>
 <ul>
   <li>🔧 <a href="https://github.com/thewisex/ai-healthcare">AI Healthcare Library</a> - ML models for healthcare</li>
@@ -416,7 +479,9 @@ dev.daily_routine()
   <li>⭐ Pandas - Data Analysis</li>
 </ul>
 <hr/>
-<h2 align="center">🔥 Recent GitHub Activity</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🔥%20Recent%20GitHub%20Activity&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
 <!--RECENT_ACTIVITY:start-->
 <ol>
   <li>🎉 Created new repository: <code>Healthcare-AI-Model</code></li>
@@ -427,50 +492,70 @@ dev.daily_routine()
 </ol>
 <!--RECENT_ACTIVITY:end-->
 <hr/>
-<h2 align="center">📅 Contribution Timeline</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📅%20Contribution%20Timeline&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <pre>
-2022 ████████░░░░░░░░░░░░  40%
-2023 ████████████░░░░░░░░  60%
-2024 ████████████████░░░░  80%
-2025 ██████████████████░░  90%
-2026 ████████████████████ 100% (Target)
+2022 ████████░░░░░░░░░░░░  40%  🌱
+2023 ████████████░░░░░░░░  60%  📈
+2024 ████████████████░░░░  80%  🚀
+2025 ██████████████████░░  90%  💪
+2026 ████████████████████ 100%  🎯 (Target)
 </pre>
 <hr/>
-<h2 align="center">📌 Pinned Repositories</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=📌%20Pinned%20Repositories&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</div>
+<br/>
 <div align="center">
   <a href="https://github.com/thewisex/ai-healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=ai-healthcare&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=ai-healthcare&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/thewisex/longevity-research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=longevity-research&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=longevity-research&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/thewisex/fastapi-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=fastapi-boilerplate&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=fastapi-boilerplate&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/thewisex/pytorch-utils">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=pytorch-utils&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisex&repo=pytorch-utils&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/thewisex?tab=repositories">
-    <img src="https://img.shields.io/badge/Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
   </a>
   <a href="https://github.com/thewisex?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/📂_View_All_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </div>
 <br/>
+<hr/>
 <div align="center">
-  <h3>🌟 "Building the Future, One Line of Code at a Time" 🌟</h3>
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=🌟%20Building%20the%20Future%20%20One%20Line%20of%20Code%20at%20a%20Time%20🌟&fontSize=30&fontAlignY=65&animation=twinkling" />
+</div>
+<br/>
+<div align="center">
   <h3>📫 Let's Build Together!</h3>
   <p><b>Open to collaborations in:</b> AI Research • Healthcare Tech • Longevity Science • Open Source</p>
   <p><b>Reach out:</b> ranait@aevoncorp.com</p>
   <br/>
   <p><i>Last Updated: January 2026</i></p>
   <br/>
-  <img src="https://img.shields.io/badge/Made_with-❤️-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered_by-Coffee-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Built_with-Code-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made_with-❤️-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Powered_by-Coffee-FFD700?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Built_with-Code-00D4FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Inspired_by-Impact-00FF88?style=for-the-badge&labelColor=0d1117" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thewisex/thewisex/output/snake.svg" alt="Snake animation" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <br/>
+  <sub>🐍 Eating the contributions!</sub>
 </div>

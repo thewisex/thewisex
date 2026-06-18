@@ -1,23 +1,14 @@
-# Complete GitHub Profile README.md Code
-
-Here's the complete, production-ready code for your GitHub profile:
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Ranjit+Yadav+%F0%9F%91%8B;AI+Researcher+%26+Founder;Building+the+Future+with+AI;Human+Longevity+Enthusiast" alt="Typing SVG" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Founder-Aevon_Corporation-00D4FF?style=for-the-badge&logo=company&logoColor=white" />
   <img src="https://img.shields.io/badge/MCA-KGEC-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Researcher-Open_To_Work-00FF88?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Human_Longevity-Enthusiast-FFD700?style=for-the-badge&logo=health&logoColor=white" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thewisewx&color=00D4FF&style=flat-square" alt="Profile views" />
   <a href="https://github.com/thewisewx?tab=followers">
@@ -27,12 +18,9 @@ Here's the complete, production-ready code for your GitHub profile:
     <img src="https://img.shields.io/github/stars/thewisewx?label=Stars&style=social" alt="GitHub stars" />
   </a>
 </div>
-
----
-
-## 🧠 About Me
-
-```python
+<hr/>
+<h2 align="center">🧠 About Me</h2>
+<pre>
 class RanjitYadav:
     def __init__(self):
         self.name = "Ranjit Yadav"
@@ -65,58 +53,49 @@ class RanjitYadav:
 
 me = RanjitYadav()
 me.say_hi()
-```
-
----
-
-## 🚀 Current Focus Areas
-
+</pre>
+<hr/>
+<h2 align="center">🚀 Current Focus Areas</h2>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/AI_Research-00D4FF?style=for-the-badge&logo=ai&logoColor=white" />
-        <br />
+        <br/>
         <sub><b>Deep Learning & LLMs</b></sub>
-        <br />
+        <br/>
         <sub>PyTorch • TensorFlow • Transformers</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Healthcare_Tech-FF6B6B?style=for-the-badge&logo=healthcare&logoColor=white" />
-        <br />
+        <br/>
         <sub><b>Predictive Analytics</b></sub>
-        <br />
+        <br/>
         <sub>Health Intelligence • Medical AI</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Longevity_Science-00FF88?style=for-the-badge&logo=biotech&logoColor=white" />
-        <br />
+        <br/>
         <sub><b>Human Longevity</b></sub>
-        <br />
+        <br/>
         <sub>Biotechnology • Bioinformatics</sub>
       </td>
     </tr>
   </table>
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-```text
+<hr/>
+<h2 align="center">🛠️ Tech Stack</h2>
+<h3>💻 Programming Languages</h3>
+<pre>
 Python     ██████████████████████░░░  85%
 JavaScript ██████████████████░░░░░░░  70%
 SQL        ████████████████░░░░░░░░░  65%
 PHP        ██████████████░░░░░░░░░░░  60%
 HTML/CSS   ██████████████████░░░░░░░  70%
 C++        ██████████████░░░░░░░░░░░  60%
-```
-
-### 🤖 AI & Machine Learning
-
-```text
+</pre>
+<h3>🤖 AI & Machine Learning</h3>
+<pre>
 PyTorch      ██████████████████░░░░░  75%
 TensorFlow   ████████████████░░░░░░░  70%
 Scikit-Learn ██████████████████░░░░░  75%
@@ -125,11 +104,9 @@ Pandas       ████████████████████░░�
 Matplotlib   ██████████████████░░░░░  75%
 FastAPI      ████████████████░░░░░░░  70%
 HuggingFace  ████████████████░░░░░░░  70%
-```
-
-### 🛠️ Tools & Platforms
-
-```text
+</pre>
+<h3>🛠️ Tools & Platforms</h3>
+<pre>
 Linux        ████████████████████░░░  80%
 Git          ████████████████████░░░  80%
 Docker       ████████████████░░░░░░░  70%
@@ -138,69 +115,79 @@ MySQL        ████████████████░░░░░░�
 MongoDB      ██████████████░░░░░░░░░  65%
 AWS          ████████████████░░░░░░░  70%
 Jupyter      ████████████████████░░░  80%
-```
-
----
-
-## 📊 GitHub Analytics
-
+</pre>
+<hr/>
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewisewx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisewx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewisewx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisewx&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
+<hr/>
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thewisewx&theme=algolia&no-frame=true&row=2&column=4" />
 </div>
-
----
-
-## 💡 Featured Projects
-
-### 🏢 Aevon Corporation
-> Research and development at the intersection of AI, Biotechnology, and Human Longevity
-
-**Key Focus Areas:**
-- 🏥 AI-powered healthcare systems
-- 🔬 Longevity science research  
-- 📊 Predictive health analytics
-- 🧬 Intelligent medical systems
-- 🤖 Generative AI for drug discovery
-
-**Live Projects:**
-- 🌐 [Aevon Website](https://aevoncorp.com)
-- 🤖 [AI Platform](https://ai.aevoncorp.com)
-
-### 🔬 Research Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| HealthAI | Predictive healthcare analytics | PyTorch, FastAPI | 🚧 In Progress |
-| LongevityLab | Aging research & biomarkers | TensorFlow, Pandas | 🔬 Research |
-| GenAI-Med | Medical LLM applications | HuggingFace, Python | 📝 Planning |
-| BioInformatics | Genomic data analysis | NumPy, Scikit-learn | 🔬 Research |
-
----
-
-## 📈 Weekly Development Breakdown
-
-```text
+<hr/>
+<h2 align="center">💡 Featured Projects</h2>
+<h3>🏢 Aevon Corporation</h3>
+<blockquote>Research and development at the intersection of AI, Biotechnology, and Human Longevity</blockquote>
+<p><b>Key Focus Areas:</b></p>
+<ul>
+  <li>🏥 AI-powered healthcare systems</li>
+  <li>🔬 Longevity science research</li>
+  <li>📊 Predictive health analytics</li>
+  <li>🧬 Intelligent medical systems</li>
+  <li>🤖 Generative AI for drug discovery</li>
+</ul>
+<p><b>Live Projects:</b></p>
+<ul>
+  <li>🌐 <a href="https://aevoncorp.com">Aevon Website</a></li>
+  <li>🤖 <a href="https://ai.aevoncorp.com">AI Platform</a></li>
+</ul>
+<h3>🔬 Research Projects</h3>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>HealthAI</td>
+    <td>Predictive healthcare analytics</td>
+    <td>PyTorch, FastAPI</td>
+    <td>🚧 In Progress</td>
+  </tr>
+  <tr>
+    <td>LongevityLab</td>
+    <td>Aging research & biomarkers</td>
+    <td>TensorFlow, Pandas</td>
+    <td>🔬 Research</td>
+  </tr>
+  <tr>
+    <td>GenAI-Med</td>
+    <td>Medical LLM applications</td>
+    <td>HuggingFace, Python</td>
+    <td>📝 Planning</td>
+  </tr>
+  <tr>
+    <td>BioInformatics</td>
+    <td>Genomic data analysis</td>
+    <td>NumPy, Scikit-learn</td>
+    <td>🔬 Research</td>
+  </tr>
+</table>
+<hr/>
+<h2 align="center">📈 Weekly Development Breakdown</h2>
+<pre>
 Python        ████████████████░░░░  80 hrs
 PyTorch       ██████████████░░░░░░  60 hrs
 Research      ██████████████░░░░░░  55 hrs
@@ -208,56 +195,55 @@ FastAPI       ████████████░░░░░░░░  40 h
 Documentation ██████████░░░░░░░░░░  30 hrs
 GitHub        ████████████░░░░░░░░  35 hrs
 DevOps        ████████░░░░░░░░░░░░  25 hrs
-```
-
----
-
-## 🎯 2026 Goals & Milestones
-
-### Quarter 1 (Jan - Mar)
-- [ ] Complete advanced PyTorch certification
-- [ ] Start GATE CSE preparation
-- [ ] Build first AI healthcare prototype
-- [ ] Contribute to 3 open source projects
-
-### Quarter 2 (Apr - Jun)
-- [ ] Publish first research paper
-- [ ] Launch AI platform beta
-- [ ] Complete 5 open source contributions
-- [ ] Develop predictive health model
-
-### Quarter 3 (Jul - Sep)
-- [ ] Crack GATE CSE examination
-- [ ] Scale Aevon Corporation operations
-- [ ] Deploy healthcare AI solution
-- [ ] Start human longevity research
-
-### Quarter 4 (Oct - Dec)
-- [ ] Publish second research paper
-- [ ] Launch commercial AI product
-- [ ] Expand team at Aevon
-- [ ] Master advanced LLM architectures
-
----
-
-## 📚 Learning Resources
-
-### Currently Reading
-- 📖 "Deep Learning" by Ian Goodfellow
-- 📖 "Pattern Recognition and Machine Learning" by Christopher Bishop
-- 📖 "The Age of AI" by Henry Kissinger
-- 📖 "Lifespan" by David Sinclair
-
-### Courses
-- 🎓 CS224N: Natural Language Processing with Deep Learning
-- 🎓 CS231N: Convolutional Neural Networks for Visual Recognition
-- 🎓 Fast.ai: Practical Deep Learning for Coders
-- 🎓 MIT 6.S191: Introduction to Deep Learning
-
----
-
-## 🤝 Connect & Collaborate
-
+</pre>
+<hr/>
+<h2 align="center">🎯 2026 Goals & Milestones</h2>
+<h3>Quarter 1 (Jan - Mar)</h3>
+<ul>
+  <li><input type="checkbox" disabled/> Complete advanced PyTorch certification</li>
+  <li><input type="checkbox" disabled/> Start GATE CSE preparation</li>
+  <li><input type="checkbox" disabled/> Build first AI healthcare prototype</li>
+  <li><input type="checkbox" disabled/> Contribute to 3 open source projects</li>
+</ul>
+<h3>Quarter 2 (Apr - Jun)</h3>
+<ul>
+  <li><input type="checkbox" disabled/> Publish first research paper</li>
+  <li><input type="checkbox" disabled/> Launch AI platform beta</li>
+  <li><input type="checkbox" disabled/> Complete 5 open source contributions</li>
+  <li><input type="checkbox" disabled/> Develop predictive health model</li>
+</ul>
+<h3>Quarter 3 (Jul - Sep)</h3>
+<ul>
+  <li><input type="checkbox" disabled/> Crack GATE CSE examination</li>
+  <li><input type="checkbox" disabled/> Scale Aevon Corporation operations</li>
+  <li><input type="checkbox" disabled/> Deploy healthcare AI solution</li>
+  <li><input type="checkbox" disabled/> Start human longevity research</li>
+</ul>
+<h3>Quarter 4 (Oct - Dec)</h3>
+<ul>
+  <li><input type="checkbox" disabled/> Publish second research paper</li>
+  <li><input type="checkbox" disabled/> Launch commercial AI product</li>
+  <li><input type="checkbox" disabled/> Expand team at Aevon</li>
+  <li><input type="checkbox" disabled/> Master advanced LLM architectures</li>
+</ul>
+<hr/>
+<h2 align="center">📚 Learning Resources</h2>
+<h3>Currently Reading</h3>
+<ul>
+  <li>📖 "Deep Learning" by Ian Goodfellow</li>
+  <li>📖 "Pattern Recognition and Machine Learning" by Christopher Bishop</li>
+  <li>📖 "The Age of AI" by Henry Kissinger</li>
+  <li>📖 "Lifespan" by David Sinclair</li>
+</ul>
+<h3>Courses</h3>
+<ul>
+  <li>🎓 CS224N: Natural Language Processing with Deep Learning</li>
+  <li>🎓 CS231N: Convolutional Neural Networks for Visual Recognition</li>
+  <li>🎓 Fast.ai: Practical Deep Learning for Coders</li>
+  <li>🎓 MIT 6.S191: Introduction to Deep Learning</li>
+</ul>
+<hr/>
+<h2 align="center">🤝 Connect & Collaborate</h2>
 <div align="center">
   <a href="https://aevoncorp.com">
     <img src="https://img.shields.io/badge/Website-aevoncorp.com-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -278,45 +264,37 @@ DevOps        ████████░░░░░░░░░░░░  25 h
     <img src="https://img.shields.io/badge/Email-ranait@aevoncorp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
----
-
-## 💬 Random Dev Quote
-
+<hr/>
+<h2 align="center">💬 Random Dev Quote</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
+<hr/>
+<h2 align="center">📝 Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Systems for Healthcare: A Comprehensive Guide](https://aevoncorp.com/blog/ai-healthcare)
-- [The Future of Human Longevity: How AI is Changing Aging Research](https://aevoncorp.com/blog/longevity-ai)
-- [Getting Started with PyTorch: A Beginner's Guide](https://aevoncorp.com/blog/pytorch-guide)
-- [Healthcare AI: Challenges and Opportunities in 2026](https://aevoncorp.com/blog/healthcare-ai-2026)
-- [Understanding Transformer Models: From Theory to Practice](https://aevoncorp.com/blog/transformers-guide)
+<ul>
+  <li><a href="https://aevoncorp.com/blog/ai-healthcare">Building AI Systems for Healthcare: A Comprehensive Guide</a></li>
+  <li><a href="https://aevoncorp.com/blog/longevity-ai">The Future of Human Longevity: How AI is Changing Aging Research</a></li>
+  <li><a href="https://aevoncorp.com/blog/pytorch-guide">Getting Started with PyTorch: A Beginner's Guide</a></li>
+  <li><a href="https://aevoncorp.com/blog/healthcare-ai-2026">Healthcare AI: Challenges and Opportunities in 2026</a></li>
+  <li><a href="https://aevoncorp.com/blog/transformers-guide">Understanding Transformer Models: From Theory to Practice</a></li>
+</ul>
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## ⚡ Fun Facts About Me
-
-- 🎯 I believe **consistency beats intensity** in every endeavor
-- 🌱 I read at least 2 research papers daily
-- 🚀 My mission is to **improve human life through technology**
-- 💡 I think the **intersection of AI and Biology** is the most exciting field
-- 🧬 I'm fascinated by **human longevity and aging research**
-- 📚 I maintain a personal library of 500+ AI/ML research papers
-- 🌍 I'm passionate about making AI accessible to everyone
-- 🎮 When not coding, I enjoy strategy games and chess
-
----
-
-## 💻 My Development Philosophy
-
-```python
+<hr/>
+<h2 align="center">⚡ Fun Facts About Me</h2>
+<ul>
+  <li>🎯 I believe <b>consistency beats intensity</b> in every endeavor</li>
+  <li>🌱 I read at least 2 research papers daily</li>
+  <li>🚀 My mission is to <b>improve human life through technology</b></li>
+  <li>💡 I think the <b>intersection of AI and Biology</b> is the most exciting field</li>
+  <li>🧬 I'm fascinated by <b>human longevity and aging research</b></li>
+  <li>📚 I maintain a personal library of 500+ AI/ML research papers</li>
+  <li>🌍 I'm passionate about making AI accessible to everyone</li>
+  <li>🎮 When not coding, I enjoy strategy games and chess</li>
+</ul>
+<hr/>
+<h2 align="center">💻 My Development Philosophy</h2>
+<pre>
 class LifeAsDeveloper:
     def __init__(self):
         self.learning = True
@@ -338,14 +316,9 @@ class LifeAsDeveloper:
 
 dev = LifeAsDeveloper()
 dev.daily_routine()
-```
-
----
-
-## 📊 Support My Work
-
-If you find my work valuable, consider supporting me:
-
+</pre>
+<hr/>
+<h2 align="center">📊 Support My Work</h2>
 <div align="center">
   <a href="https://github.com/sponsors/thewisewx">
     <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" />
@@ -354,186 +327,68 @@ If you find my work valuable, consider supporting me:
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
-
----
-
-## 🌟 Open Source Contributions
-
-### My Contributions
-- 🔧 [Project 1] - AI Healthcare Library
-- 🔧 [Project 2] - PyTorch Utilities
-- 🔧 [Project 3] - FastAPI Boilerplate
-- 🔧 [Project 4] - Data Science Toolkit
-
-### Projects I Support
-- ⭐ PyTorch
-- ⭐ TensorFlow
-- ⭐ HuggingFace Transformers
-- ⭐ FastAPI
-- ⭐ Scikit-learn
-
----
-
-## 🔥 Recent GitHub Activity
-
+<hr/>
+<h2 align="center">🌟 Open Source Contributions</h2>
+<h3>My Contributions</h3>
+<ul>
+  <li>🔧 <a href="#">AI Healthcare Library</a></li>
+  <li>🔧 <a href="#">PyTorch Utilities</a></li>
+  <li>🔧 <a href="#">FastAPI Boilerplate</a></li>
+  <li>🔧 <a href="#">Data Science Toolkit</a></li>
+</ul>
+<h3>Projects I Support</h3>
+<ul>
+  <li>⭐ PyTorch</li>
+  <li>⭐ TensorFlow</li>
+  <li>⭐ HuggingFace Transformers</li>
+  <li>⭐ FastAPI</li>
+  <li>⭐ Scikit-learn</li>
+</ul>
+<hr/>
+<h2 align="center">🔥 Recent GitHub Activity</h2>
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Created new repository: `Healthcare-AI-Model`
-2. ⭐ Starred `PyTorch/PyTorch`
-3. 🔧 Contributed to `huggingface/transformers`
-4. 📝 Published blog post: "Building AI for Healthcare"
-5. 🚀 Deployed AI Platform at ai.aevoncorp.com
+<ol>
+  <li>🎉 Created new repository: <code>Healthcare-AI-Model</code></li>
+  <li>⭐ Starred <code>PyTorch/PyTorch</code></li>
+  <li>🔧 Contributed to <code>huggingface/transformers</code></li>
+  <li>📝 Published blog post: "Building AI for Healthcare"</li>
+  <li>🚀 Deployed AI Platform at ai.aevoncorp.com</li>
+</ol>
 <!--RECENT_ACTIVITY:end-->
-
----
-
-## 📅 Contribution Timeline
-
-```text
+<hr/>
+<h2 align="center">📅 Contribution Timeline</h2>
+<pre>
 2022 ████████░░░░░░░░░░░░  40%
 2023 ████████████░░░░░░░░  60%
 2024 ████████████████░░░░  80%
 2025 ██████████████████░░  90%
 2026 ████████████████████ 100% (Target)
-```
-
----
-
+</pre>
+<hr/>
 <div align="center">
-  
-### 🌟 "Building the Future, One Line of Code at a Time" 🌟
-
----
-
-### 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=ai-healthcare&theme=tokyonight&hide_border=true)](https://github.com/thewisewx/ai-healthcare)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=longevity-research&theme=tokyonight&hide_border=true)](https://github.com/thewisewx/longevity-research)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=fastapi-boilerplate&theme=tokyonight&hide_border=true)](https://github.com/thewisewx/fastapi-boilerplate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=pytorch-utils&theme=tokyonight&hide_border=true)](https://github.com/thewisewx/pytorch-utils)
-
----
-
-### Show some ❤️ by starring ⭐ some repositories!
-
-[![Star Badge](https://img.shields.io/badge/Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/thewisewx?tab=repositories)
-
----
-
-### 📫 Let's Build Together!
-
-**Open to collaborations in:** AI Research • Healthcare Tech • Longevity Science • Open Source
-
-**Reach out:** ranait@aevoncorp.com
-
----
-
-*Last Updated: January 2026*
-
+  <h2>🌟 "Building the Future, One Line of Code at a Time" 🌟</h2>
+  <br/>
+  <h3>📌 Pinned Repositories</h3>
+  <a href="https://github.com/thewisewx/ai-healthcare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=ai-healthcare&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/thewisewx/longevity-research">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=longevity-research&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/thewisewx/fastapi-boilerplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=fastapi-boilerplate&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/thewisewx/pytorch-utils">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thewisewx&repo=pytorch-utils&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/thewisewx?tab=repositories">
+    <img src="https://img.shields.io/badge/Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <br/><br/>
+  <h3>📫 Let's Build Together!</h3>
+  <p><b>Open to collaborations in:</b> AI Research • Healthcare Tech • Longevity Science • Open Source</p>
+  <p><b>Reach out:</b> ranait@aevoncorp.com</p>
+  <br/>
+  <p><i>Last Updated: January 2026</i></p>
 </div>
-```
-
----
-
-## 📋 Instructions to Use This README
-
-### 1. **Create the README File**
-```bash
-# Navigate to your profile repository
-cd ~/username/username
-
-# Create or edit README.md
-nano README.md
-# or
-vim README.md
-# or use any text editor
-```
-
-### 2. **Copy and Paste**
-Copy the entire markdown code above and paste it into your `README.md` file.
-
-### 3. **Customize These Sections**
-
-#### 🔄 Replace with your actual information:
-- GitHub username: `thewisewx` → Your username (occurs multiple times)
-- Email: `ranait@aevoncorp.com` → Your email
-- LinkedIn: Add your actual LinkedIn URL
-- Twitter: Add your Twitter handle (or remove if not applicable)
-- Blog posts: Replace with your actual blog URLs
-
-#### 📊 Update Stats:
-The GitHub stats (stars, followers, etc.) will auto-update. No changes needed!
-
-#### 🎯 Modify Goals:
-Update the goals in the "2026 Goals & Milestones" section to match your actual goals.
-
-#### 💼 Update Projects:
-Replace the featured projects with your actual projects.
-
-### 4. **Optional Customizations**
-
-#### Add More Badges
-```markdown
-<img src="https://img.shields.io/badge/Your_Badge-Text-COLOR?style=for-the-badge&logo=logo&logoColor=white" />
-```
-
-#### Add Custom Sections
-You can add more sections like:
-- Certifications
-- Awards
-- Speaking Engagements
-- Hackathon Wins
-
-#### Change Color Theme
-The current theme is Tokyo Night (blue/purple). To change:
-- Replace `#00D4FF` with your preferred color
-- Replace `#FF6B6B` with your accent color
-- Change `theme=tokyonight` to other themes: `dark`, `github_dark`, `gruvbox`, `monokai`
-
-### 5. **Test Locally**
-You can preview your README using:
-- GitHub's online editor
-- VS Code with markdown preview
-- Any markdown viewer
-
-### 6. **Push to GitHub**
-```bash
-git add README.md
-git commit -m "Update README with advanced profile"
-git push origin main
-```
-
----
-
-## 🎨 Alternative Themes
-
-### Dark Theme
-```markdown
-theme=dark
-bg_color=0d1117
-```
-
-### Light Theme
-```markdown
-theme=light
-bg_color=ffffff
-```
-
-### GitHub Dark Theme
-```markdown
-theme=github_dark
-bg_color=0d1117
-```
-
----
-
-## 🚀 Pro Tips
-
-1. **Keep it Updated**: Refresh your README monthly with new achievements
-2. **Be Authentic**: Add your personality, don't just copy-paste
-3. **Show, Don't Tell**: Use stats and badges to prove your skills
-4. **Add Recent Activity**: Show what you're working on now
-5. **Link Everything**: Make it easy for people to connect with you
-
----
-
-**That's it! Your GitHub profile is now ready to impress visitors and showcase your awesome work! 🎉**

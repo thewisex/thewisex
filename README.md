@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ANIMATED HERO BANNER SVG -->
@@ -289,6 +288,9 @@ Exploring EEG signal processing and classification of cognitive attention states
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -309,6 +311,7 @@ Exploring EEG signal processing and classification of cognitive attention states
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -316,50 +319,67 @@ Exploring EEG signal processing and classification of cognitive attention states
 
 <div align="center">
 
-## ⟨ GitHub Stats ⟩
+## ⟨ GitHub Statistics — Complete Overview ⟩
 
 <br/>
 
-<!-- ANIMATED STATS WITH ALL INFO - TOTAL REPOS, PRIVATE/PUBLIC, COMMITS, ETC -->
+<!-- ALL REPOSITORIES COUNT WITH PUBLIC & PRIVATE -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&ring=a89070&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=github_dark&hide_border=true&title_color=a89070&text_color=8a8780&bg_color=0d1117&card_width=320" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisex&layout=compact&theme=github_dark&hide_border=true&title_color=a89070&text_color=8a8780&bg_color=0d1117&card_width=320&langs_count=10" width="49%" />
 </div>
 
 <br/>
 
-<!-- DETAILED STATS WITH REPOS, COMMITS, ETC -->
+<!-- DETAILED STATS WITH ALL METRICS -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thewisex&theme=dark&hide_border=true&background=0D1117&ring=a89070&fire=d4bfa4&currStreakLabel=a89070&sideLabels=8a8780&dates=6b6960&stroke=a89070&strokeWidth=1&border=0D1117" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered" width="100%" />
 </div>
 
 <br/>
 
-<!-- COMPACT STATS CARD SHOWING ALL METRICS -->
+<!-- STREAK STATS WITH ALL CONTRIBUTIONS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thewisex&show_icons=true&theme=github_dark&hide_border=true&title_color=a89070&icon_color=d4bfa4&text_color=8a8780&bg_color=0d1117&include_all_commits=true&count_private=true&show=prs_merged&hide=stars" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thewisex&theme=dark&hide_border=true&background=0D1117&ring=a89070&fire=d4bfa4&currStreakLabel=a89070&sideLabels=8a8780&dates=6b6960&stroke=a89070&strokeWidth=2&border=0D1117" width="70%" />
 </div>
 
 <br/>
 
-<!-- ANIMATED STREAK WITH GLOW EFFECT -->
+<!-- COMPLETE REPOSITORY STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thewisex&theme=dark&hide_border=true&background=0D1117&ring=a89070&fire=d4bfa4&currStreakLabel=a89070&sideLabels=8a8780&dates=6b6960&stroke=a89070&strokeWidth=2&border=0D1117" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewisex&theme=github_dark" width="100%" />
 </div>
 
 <br/>
 
-<!-- TROPHY WITH REPO STATS -->
+<!-- REPOSITORY CARDS WITH ALL REPOS -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thewisex&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thewisex&theme=github_dark" width="49%" />
 </div>
 
 <br/>
 
-<!-- VISITOR BADGE WITH ANIMATION -->
+<!-- PRODUCTIVE TIME STATS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thewisex&color=a89070&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thewisex&theme=github_dark&utcOffset=5.5" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thewisex&theme=github_dark" width="49%" />
 </div>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thewisex&bg_color=0d1117&color=a89070&line=d4bfa4&point=a89070&area=true&hide_border=true&area_color=a89070&custom_title=Contribution%20Graph%20-%20All%20Repositories" width="100%" />
+
+<br/><br/>
+
+<!-- GITHUB TROPHY -->
+<img src="https://github-profile-trophy.vercel.app/?username=thewisex&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
+
+<br/>
+
+<!-- VISITOR BADGE -->
+<img src="https://komarev.com/ghpvc/?username=thewisex&color=a89070&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
